@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-project",
+  "version": "1.0.0",
+  "description": "Hello World Project - Day 2 - Week 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcarrascof/hello-world-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcarrascof/hello-world-project/issues"
+  },
+  "homepage": "https://github.com/jlcarrascof/hello-world-project#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
