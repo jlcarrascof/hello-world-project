@@ -3,7 +3,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="140" height="auto" />
   <br/>
   <h3><b>Microverse First Project</b></h3>
 
@@ -59,6 +59,6 @@ In order to run this project you only need a web browser.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
