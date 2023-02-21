@@ -30,6 +30,14 @@
 
 We built this project using tools as: Git client, Visual Studio Code and NPM.
 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</details>
+
 ### Key Features <a name="key-features"></a>
 
 We developed this exercise to test some skills using Git/GitHub and Linters.
@@ -41,11 +49,25 @@ We developed this exercise to test some skills using Git/GitHub and Linters.
 
 This job was suggested only for educative purposes.
 
+### Setup
+
+Clone this repository to your desired folder:
+
+  cd my-folder
+  git clone git@github.com:jlcarrascof/hello-world-project.git
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 
 In order to run this project you only need a web browser. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Usage
+
+To run the project, execute the following command:
+
+N/A
+
 
 ## 👥 Authors <a name="authors"></a>
 
